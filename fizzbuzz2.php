@@ -1,5 +1,5 @@
 <?php
-
+aaa
 $text = '3 5 15';
 $input = explode(' ',$text);
 print_r($input);
